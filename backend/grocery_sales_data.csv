@@ -1,0 +1,13 @@
+date,sku,item_name,quantity,day_type
+2026-11-10,GRC-01,Basmati Rice (5kg),11,Weekday
+2026-11-10,GRC-02,Fresh Milk (1L),44,Weekday
+2026-11-10,GRC-03,Whole Wheat Bread,26,Weekday
+2026-11-10,GRC-04,Sunflower Oil (1L),13,Weekday
+2026-11-11,GRC-05,Red Onions (1kg),31,Weekday
+2026-11-11,GRC-06,Sugar (1kg),17,Weekday
+2026-11-11,GRC-07,Toor Dal (1kg),10,Weekday
+2026-11-11,GRC-08,Farm Eggs (12 pcs),23,Weekday
+2026-11-14,GRC-02,Fresh Milk (1L),58,Weekend
+2026-11-14,GRC-03,Whole Wheat Bread,36,Weekend
+2026-11-15,GRC-01,Basmati Rice (5kg),19,Weekend
+2026-11-15,GRC-08,Farm Eggs (12 pcs),33,Weekend
